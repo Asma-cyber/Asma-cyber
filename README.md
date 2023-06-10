@@ -1,36 +1,40 @@
-# Asma_cyber
+# Hi there! I'm Asma, a Django REST API and C# Developer 👋
 
-Welcome to my GitHub profile! This repository serves as a central hub to showcase my projects, skills, and contributions in the world of software development. Feel free to explore the different projects and repositories listed below.
+Welcome to my GitHub profile! I specialize in building robust Django REST APIs and developing applications using C#, particularly ASP.NET and WPF.
 
-## Projects
 
-1. [Project 1](link-to-project-1): Brief description of Project 1.
-2. [Project 2](link-to-project-2): Brief description of Project 2.
-3. [Project 3](link-to-project-3): Brief description of Project 3.
+### Django REST API
+
+![Task Manager API](gifs/django-rest-api.gif)
+
+### C# Application
+
+![Customer Management System](gifs/wpf-app.gif)
+
+## About Me
+
+I'm a dedicated developer with expertise in Django, Python, C#, ASP.NET, and WPF. I have a passion for creating efficient and user-friendly applications that solve real-world problems.
 
 ## Skills
 
-- Programming languages: List of programming languages I am proficient in.
-- Technologies and frameworks: List of technologies and frameworks I have experience with.
-- Tools: List of development tools I use for coding, testing, and deployment.
+Here are some of the skills and technologies I specialize in:
 
-## Contributions
+- Django REST Framework
+- Python
+- C# and .NET Framework
+- ASP.NET
+- WPF (Windows Presentation Foundation)
+- Entity Framework
+- SQL
+- HTML, CSS, JavaScript
 
-- [Open Source Project 1](link-to-open-source-project-1): Description of my contribution to Open Source Project 1.
-- [Open Source Project 2](link-to-open-source-project-2): Description of my contribution to Open Source Project 2.
-- [Open Source Project 3](link-to-open-source-project-3): Description of my contribution to Open Source Project 3.
+## Let's Connect!
 
-## Contact
+Feel free to get in touch with me through the following channels:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Website: [Your Website](https://www.your-website.com)
+- Email: asma.aha666@gmail.com
+- LinkedIn: [Asma](https://www.linkedin.com/in/hamza-asma-b044541b6/)
+- Twitter: [@Asma_HH_](https://twitter.com/Asma_HH_)
 
-## Resume
-
-For more details about my professional background, you can check out my resume. [Download Resume](link-to-download-resume)
-
-## License
-
-The content of this repository is licensed under the [MIT License](LICENSE).
+I'm always open to exciting collaboration opportunities and new projects. Let's create something amazing together!
 
