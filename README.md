@@ -1,4 +1,4 @@
-Hey there, fellow human! 👋 I'm Asma, and I'm all about creating awesome stuff as a Django REST API and C# Developer. How cool is that?
+Hey there, 👋 I'm Asma, and I'm all about creating awesome stuff as a Django REST API and C# Developer. How cool is that?
 
 Get ready to be blown away by my GitHub profile! I'm a master when it comes to building robust Django REST APIs and crafting slick applications using C#. Brace yourself for some jaw-dropping action!
 
