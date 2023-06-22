@@ -3,11 +3,11 @@ Hey there, 👋 I'm Asma, and I'm all about creating awesome stuff as a Django R
 Get ready to be blown away by my GitHub profile! I'm a master when it comes to building robust Django REST APIs and crafting slick applications using C#. Brace yourself for some jaw-dropping action!
 
 
-![Task Manager API](gifs/django-rest-api.gif)
+<!-- ![Task Manager API](gifs/django-rest-api.gif) -->
 
 But wait, there's more! I'm not just a one-trick pony. I'm a C# wizard, especially when it comes to ASP.NET and WPF
 
-![Customer Management System](gifs/wpf-app.gif)
+<!-- ![Customer Management System](gifs/wpf-app.gif) -->
 
 Now, let me introduce myself properly. I'm a passionate developer with a crazy amount of expertise in Django (Well just enough to do it properly), Python, C#, ASP.NET, and WPF. My mission? Creating efficient, user-friendly applications that solve real-world problems. Boom!
 
