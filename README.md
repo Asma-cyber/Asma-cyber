@@ -8,6 +8,8 @@ Get ready to be blown away by my GitHub profile! I'm a master when it comes to b
 But wait, there's more! I'm not just a one-trick pony. I'm a C# wizard, especially when it comes to ASP.NET and WPF
 
 <!-- ![Customer Management System](gifs/wpf-app.gif) -->
+[![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-Click%20Here-blue)](https://github.com/Asma-cyber/Asma-cyber/blob/main/github_stats.py)
+
 
 Now, let me introduce myself properly. I'm a passionate developer with a crazy amount of expertise in Django (Well just enough to do it properly), Python, C#, ASP.NET, and WPF. My mission? Creating efficient, user-friendly applications that solve real-world problems. Boom!
 
