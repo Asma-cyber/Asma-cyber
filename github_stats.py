@@ -4,8 +4,9 @@ import requests
 base_url = 'https://api.github.com/'
 username = 'Asma-cyber'
 
+
 # Set your Personal Access Token
-token = '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'
+token  = os.environ.get(GITHUB_TOKEN)  |  PUBLIC_GITHUB_TOKEN # dont use token only if is oublic 
 
 # Set the headers with the PAT
 headers = {
